@@ -1,0 +1,14 @@
+{
+  "name": "render.com-spindown-solution",
+  "version": "1.0.0",
+  "description": "solution",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Harsh Ranjan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
